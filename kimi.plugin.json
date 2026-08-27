@@ -1,0 +1,14 @@
+{
+  "name": "stonetop-gm-tools",
+  "version": "0.1.0",
+  "description": "GM tooling skills for running a Stonetop tabletop RPG campaign",
+  "author": "Karim Naguib",
+  "homepage": "https://github.com/karimn/stonetop-gm-tools",
+  "license": "CC-BY-SA-4.0",
+  "keywords": ["stonetop", "ttrpg", "gm-tools", "tabletop-rpg"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Stonetop GM Tools",
+    "shortDescription": "GM tooling skills for running a Stonetop tabletop RPG campaign"
+  }
+}
