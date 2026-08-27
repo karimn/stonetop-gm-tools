@@ -1,0 +1,16 @@
+{
+  "name": "stonetop-gm-tools",
+  "owner": {
+    "name": "Karim Naguib"
+  },
+  "description": "GM tooling skills for running a Stonetop tabletop RPG campaign",
+  "plugins": [
+    {
+      "name": "stonetop-gm-tools",
+      "source": "./",
+      "description": "GM tooling skills for running a Stonetop tabletop RPG campaign",
+      "version": "0.1.0",
+      "tags": ["stonetop", "ttrpg", "gm-tools", "tabletop-rpg"]
+    }
+  ]
+}
